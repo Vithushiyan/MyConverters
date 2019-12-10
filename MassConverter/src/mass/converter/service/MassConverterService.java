@@ -10,7 +10,7 @@ public interface MassConverterService {
 	public double GramToMetricton(double mass);
 	public double GramToPound(double mass);
 	
-	//Killogram to gram,mg,metric-ton,pound
+	//Killogram to gram,mg,metric ton,pound
 	
 	public double KillogramToKillogram(double mass);
 	public double KillogramToGram(double mass);
